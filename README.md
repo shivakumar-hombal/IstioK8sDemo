@@ -11,4 +11,5 @@ To follow along with this tutorial, you'll need:
 
 ## Become a Cloud and DevOps Engineer
 
-Learn every tool that matters: https://rayanslim.com
+Learn every tool that matters: https://rayanslim.com<br>
+https://github.com/rslim087a/istio-service-mesh-kubernetes-kiali-grafana
